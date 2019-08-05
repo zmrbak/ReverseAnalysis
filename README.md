@@ -2,7 +2,7 @@
 
 网易云课堂：暂未上架
 <br/> 
-CSDN：<a herf="https://edu.csdn.net/course/detail/25138">https://edu.csdn.net/course/detail/25138</a> 
+CSDN：暂未上架
 <br/> 
 51CTO：暂未上架
 <br/> 
