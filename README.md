@@ -1,14 +1,15 @@
 # 云课堂《X86/X64软件逆向分析入门》示例代码
 
-网易云课堂：暂未上架
+网易云课堂：<a href="http://t.cn/AiTKOm8F">http://t.cn/AiTKOm8F</a>
 <br/> 
-CSDN：暂未上架
+CSDN：<a href="https://edu.csdn.net/course/detail/25138">https://edu.csdn.net/course/detail/25138</a>
 <br/> 
-51CTO：暂未上架
+51CTO：<a href="https://edu.51cto.com/sd/b68e1">https://edu.51cto.com/sd/b68e1</a>
 <br/> 
 腾讯课堂：暂未上架
 <br/> 
-淘宝教育：暂未上架
+淘宝教育：<a href="http://i.xue.taobao.com/detail.htm?courseId=113462">http://i.xue.taobao.com/detail.htm?courseId=113462</a>
+<br/> 
 
 # 课程简介
 
