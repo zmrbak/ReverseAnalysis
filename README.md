@@ -17,7 +17,9 @@ CSDN：<a href="https://edu.csdn.net/course/detail/25138">https://edu.csdn.net/c
 
 # 学员交流
 
-QQ群：741218412
+会员交流群：456197310 <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=0cdef8b48adc38e17306353fe37c08fe2c8b22fcb8cbdc18c17c7e84fc18194b"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="PC微信HOOK逆向分析" title="PC微信HOOK逆向分析"></a>
+
+学员交流群：741218412  <a target="_blank" href="http://shang.qq.com/wpa/qunwpa?idkey=5433929b47701089a76001e8e656b86a970faadc7c1aaba4f583eb321d550813"><img border="0" src="http://pub.idqqimg.com/wpa/images/group.png" alt="PC微信探秘/软件逆向分" title="PC微信探秘/软件逆向分"></a>
 
 # 学员评价
 
